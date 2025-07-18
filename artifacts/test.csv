@@ -1,0 +1,122 @@
+,State,City,PM2.5,PM10,O3,SO2,CO,Wind Speed,Humidity,Temp,AQI,AQI Type
+70,Gujarat,Valsad,24.0,26.0,1.0,27.0,1500.0,12.0,93.0,26.0,75.0,Satisfactory
+281,Odisha,Nayana Sagar,57.0,83.0,6.0,7.0,134.0,8.0,85.0,28.0,95.0,Satisfactory
+283,Odisha,Athagarh,57.0,83.0,6.0,7.0,134.0,12.0,81.0,28.0,95.0,Satisfactory
+33,Assam,Dhekiajuli,21.0,35.0,7.0,12.0,239.0,5.0,85.0,28.0,35.0,Good
+42,Bihar,Bihar Sharif,7.0,62.0,11.0,5.0,340.0,23.0,73.0,29.0,62.0,Satisfactory
+77,Dadra and Nagar Haveli,Dadra,24.0,26.0,1.0,27.0,1500.0,9.0,94.0,25.0,75.0,Satisfactory
+137,Himachal Pradesh,Subathu,18.0,35.0,48.0,12.0,300.0,,94.0,24.0,48.0,Good
+392,West Medinipur,Ramjibanpur,58.0,83.0,3.0,3.0,103.0,11.0,94.0,27.0,97.0,Satisfactory
+301,Tamil Nadu,Alappakkam,28.0,49.0,20.0,7.0,563.0,17.0,62.0,29.0,49.0,Good
+349,Telangana,Kottapalli,42.0,65.0,17.0,7.0,309.0,21.0,90.0,24.0,69.0,Satisfactory
+364,Mizoram,Saitlaw,26.0,37.0,,,,2.0,90.0,23.0,42.0,Good
+78,Daman and Diu,Daman,24.0,26.0,1.0,27.0,1500.0,15.0,91.0,26.0,75.0,Satisfactory
+282,Odisha,Kamakhyanagar,57.0,83.0,6.0,7.0,134.0,12.0,80.0,29.0,95.0,Satisfactory
+385,Uttarakhand,Salaraitoli,29.0,51.0,24.0,9.0,372.0,6.0,98.0,20.0,51.0,Satisfactory
+155,Jharkhand,Hazaribagh,42.0,60.0,,,,20.0,91.0,24.0,70.0,Satisfactory
+280,Odisha,Angul,13.0,14.0,11.0,12.0,500.0,11.0,82.0,28.0,40.0,Good
+177,Kerala,Shoranur,30.0,56.0,41.0,4.0,740.0,14.0,89.0,23.0,56.0,Satisfactory
+229,Manipur,Mayang Imphal,16.0,20.0,,7.0,166.0,4.0,82.0,26.0,27.0,Good
+9,Andhra Pradesh,Ongole,37.0,58.0,23.0,8.0,306.0,31.0,67.0,29.0,61.0,Satisfactory
+195,West Bengal,Montiviot Tea Garden,13.0,35.0,24.0,5.0,320.0,6.0,79.0,22.0,35.0,Good
+55,Haryana,Pinjore,1.0,13.0,81.0,2.0,920.0,8.0,75.0,28.0,81.0,Satisfactory
+398,West Medinipur,Kharar,58.0,83.0,3.0,3.0,103.0,11.0,94.0,26.0,97.0,Satisfactory
+375,Uttar Pradesh,Gosainganj,23.0,43.0,20.0,13.0,60.0,23.0,63.0,30.0,43.0,Good
+231,Manipur,Torban,16.0,20.0,,7.0,166.0,3.0,86.0,25.0,27.0,Good
+278,Assam,Bokajan,24.0,39.0,12.0,14.0,367.0,6.0,92.0,27.0,40.0,Good
+356,Tripura,Ambassa,36.0,51.0,,,,2.0,85.0,28.0,59.0,Satisfactory
+84,Gujarat,Parnera,24.0,26.0,1.0,27.0,1500.0,11.0,94.0,26.0,75.0,Satisfactory
+209,Kerala,Thalassery,33.0,70.0,26.0,2.0,120.0,23.0,85.0,26.0,70.0,Satisfactory
+172,Karnataka,Mundargi,22.0,34.0,32.0,17.0,612.0,34.0,85.0,23.0,36.0,Good
+15,Assam,Bakal,23.0,35.0,7.0,12.0,277.0,3.0,69.0,28.0,38.0,Good
+132,Hisar,Hansi,85.0,125.0,19.0,11.0,629.0,20.0,53.0,33.0,183.0,Moderate
+94,Haryana,Kharkhoda,46.0,85.0,8.0,5.0,720.0,18.0,54.0,30.0,85.0,Satisfactory
+0,Andaman and Nicobar Islands,Port Blair,12.0,20.0,,,,7.0,89.0,28.0,20.0,Good
+124,Haryana,Barwala,85.0,125.0,19.0,11.0,629.0,18.0,57.0,33.0,183.0,Moderate
+249,Churachandpur,Pherzawl,16.0,20.0,,7.0,166.0,1.0,76.0,24.0,27.0,Good
+373,Uttar Pradesh,Itaunja,32.0,60.0,22.0,10.0,140.0,23.0,65.0,30.0,60.0,Satisfactory
+56,Chandigarh,Chandigarh,9.0,20.0,61.0,3.0,715.0,12.0,68.0,30.0,61.0,Satisfactory
+310,Punjab,Kartarpur,14.0,37.0,24.0,2.0,200.0,6.0,90.0,28.0,37.0,Good
+82,Dadra and Nagar Haveli,Dadra,24.0,26.0,1.0,27.0,1500.0,9.0,94.0,25.0,75.0,Satisfactory
+322,Rajasthan,Pushkar,66.0,90.0,25.0,10.0,1040.0,7.0,68.0,30.0,120.0,Moderate
+265,Mizoram,Siaha,31.0,45.0,,,,1.0,83.0,23.0,51.0,Satisfactory
+352,Telangana,Narsingi,40.0,54.0,19.0,10.0,527.0,27.0,92.0,23.0,66.0,Satisfactory
+140,Himachal Pradesh,Rajgarh,53.0,90.0,45.0,6.0,449.0,6.0,85.0,22.0,90.0,Satisfactory
+114,Gujarat,Jasdan,29.0,49.0,38.0,13.0,658.0,20.0,94.0,26.0,49.0,Good
+101,Haryana,Bahadurgarh,26.0,68.0,33.0,10.0,560.0,19.0,49.0,30.0,68.0,Satisfactory
+307,Punjab,Makhdoom Pura,14.0,37.0,24.0,2.0,200.0,6.0,89.0,28.0,37.0,Good
+25,Assam,Hojai,21.0,35.0,7.0,12.0,239.0,4.0,90.0,27.0,35.0,Good
+366,Telangana,Bhuvanagiri,39.0,53.0,26.0,14.0,468.0,26.0,86.0,24.0,64.0,Satisfactory
+173,Karnataka,Gadag-Betigeri,4.0,10.0,3.0,36.0,520.0,36.0,88.0,22.0,45.0,Good
+126,Haryana,Meham,24.0,69.0,15.0,8.0,1100.0,17.0,53.0,33.0,69.0,Satisfactory
+145,Himachal Pradesh,Solan,18.0,35.0,48.0,12.0,300.0,,94.0,22.0,48.0,Good
+22,Assam,Dibrugarh,23.0,35.0,7.0,12.0,277.0,6.0,89.0,28.0,38.0,Good
+116,Gujarat,Paliyad,29.0,49.0,38.0,13.0,658.0,19.0,90.0,27.0,49.0,Good
+46,Bihar,Khusrupur,25.0,33.0,10.0,3.0,600.0,25.0,68.0,30.0,42.0,Good
+391,Uttarakhand,Sandana,50.0,84.0,31.0,8.0,473.0,5.0,85.0,25.0,84.0,Satisfactory
+340,Tamil Nadu,Ariyalur,28.0,49.0,20.0,7.0,563.0,25.0,59.0,28.0,49.0,Good
+73,Gujarat,Parnera,24.0,26.0,1.0,27.0,1500.0,11.0,94.0,26.0,75.0,Satisfactory
+72,Gujarat,Dharampur,33.0,52.0,9.0,24.0,1781.0,9.0,97.0,25.0,232.0,Poor
+39,Bihar,Nawada,7.0,62.0,11.0,5.0,340.0,24.0,72.0,30.0,62.0,Satisfactory
+266,Mizoram,Darlawn,24.0,33.0,1.0,10.0,115.0,2.0,89.0,22.0,40.0,Good
+57,Punjab,Sheikhpur Khurd,1.0,13.0,81.0,2.0,920.0,16.0,69.0,30.0,81.0,Satisfactory
+168,Assam,Narainpur Pt V,24.0,33.0,1.0,10.0,115.0,6.0,90.0,28.0,40.0,Good
+30,Assam,Lumding,16.0,22.0,,8.0,161.0,2.0,91.0,27.0,26.0,Good
+153,Jharkhand,Ramgarh Cantonment,42.0,60.0,,,,17.0,93.0,27.0,70.0,Satisfactory
+331,West Bengal,Montiviot Tea Garden,13.0,35.0,24.0,5.0,320.0,6.0,79.0,22.0,35.0,Good
+192,Bihar,Chatapur,46.0,70.0,22.0,12.0,579.0,22.0,76.0,29.0,76.0,Satisfactory
+399,West Bengal,Bardhaman,53.0,76.0,2.0,1.0,89.0,14.0,84.0,28.0,89.0,Satisfactory
+104,Goa,Sanguem,35.0,54.0,,,,20.0,91.0,25.0,58.0,Satisfactory
+31,Assam,Diphu,16.0,22.0,,8.0,161.0,3.0,85.0,28.0,26.0,Good
+275,Assam,Nazira,17.0,27.0,6.0,13.0,226.0,6.0,89.0,28.0,28.0,Good
+223,Madhya Pradesh,Sohagpur,36.0,53.0,20.0,24.0,723.0,10.0,85.0,27.0,60.0,Satisfactory
+334,West Bengal,Rangpo Forest,1.0,,14.0,41.0,120.0,,83.0,26.0,52.0,Satisfactory
+76,Maharashtra,Dahanu,53.0,89.0,,,,17.0,91.0,26.0,89.0,Satisfactory
+180,Kerala,Malappuram,28.0,48.0,31.0,4.0,630.0,6.0,94.0,24.0,48.0,Good
+141,Himachal Pradesh,Kotkhai,26.0,86.0,48.0,10.0,460.0,3.0,90.0,21.0,86.0,Satisfactory
+5,Andhra Pradesh,Pavuluru,37.0,58.0,23.0,8.0,306.0,23.0,67.0,29.0,61.0,Satisfactory
+45,Bihar,Warisaliganj,7.0,62.0,11.0,5.0,340.0,24.0,72.0,30.0,62.0,Satisfactory
+90,Daman and Diu,Daman,24.0,26.0,1.0,27.0,1500.0,15.0,91.0,26.0,75.0,Satisfactory
+248,Mizoram,Saitlaw,26.0,37.0,,,,2.0,90.0,23.0,42.0,Good
+337,Tamil Nadu,Thathaiyangarpet,26.0,45.0,22.0,7.0,616.0,22.0,66.0,29.0,45.0,Good
+390,Uttarakhand,Ranikhet,54.0,92.0,27.0,18.0,815.0,8.0,94.0,16.0,92.0,Satisfactory
+353,Telangana,Warangal,41.0,68.0,23.0,7.0,183.0,20.0,88.0,24.0,68.0,Satisfactory
+233,Manipur,Tengkhal Khunou,16.0,20.0,,7.0,166.0,5.0,83.0,25.0,27.0,Good
+3,Andhra Pradesh,Govindapuram,36.0,55.0,22.0,10.0,321.0,19.0,68.0,28.0,60.0,Satisfactory
+18,Assam,Doom Dooma,21.0,32.0,6.0,12.0,274.0,3.0,82.0,29.0,35.0,Good
+131,Haryana,Bhiwani,24.0,69.0,15.0,8.0,1100.0,21.0,51.0,33.0,69.0,Satisfactory
+118,Gujarat,Shapar,29.0,47.0,,,,11.0,94.0,27.0,48.0,Good
+326,Sikkim,Namchi,21.0,34.0,10.0,5.0,231.0,1.0,81.0,22.0,34.0,Good
+63,Chhattisgarh,Baloda Bazar,45.0,64.0,7.0,6.0,391.0,12.0,82.0,27.0,74.0,Satisfactory
+250,Aurangabad,Paithan,31.0,46.0,25.0,56.0,1088.0,22.0,96.0,23.0,69.0,Satisfactory
+211,Kerala,Kannur,33.0,70.0,26.0,2.0,120.0,25.0,85.0,26.0,70.0,Satisfactory
+380,Uttar Pradesh,Lucknow,22.0,53.0,27.0,6.0,663.0,13.0,89.0,30.0,53.0,Satisfactory
+93,Uttar Pradesh,Khekra,41.0,75.0,15.0,9.0,1040.0,19.0,59.0,30.0,90.0,Satisfactory
+374,Uttar Pradesh,Kakori,34.0,86.0,6.0,1.0,780.0,13.0,89.0,30.0,86.0,Satisfactory
+108,Goa,Talaulim,38.0,61.0,,,,24.0,89.0,25.0,63.0,Satisfactory
+394,West Bengal,Bhanjipur,21.0,41.0,27.0,9.0,965.0,10.0,88.0,27.0,49.0,Good
+222,Madhya Pradesh,Sultanpur,37.0,63.0,26.0,18.0,716.0,10.0,81.0,28.0,63.0,Satisfactory
+181,Kerala,Cherpulassery,26.0,48.0,12.0,1.0,676.0,14.0,88.0,23.0,48.0,Good
+246,Maharashtra,Pipri,31.0,46.0,25.0,56.0,1088.0,30.0,96.0,22.0,69.0,Satisfactory
+376,Uttar Pradesh,Malihabad,34.0,86.0,6.0,1.0,780.0,23.0,64.0,30.0,86.0,Satisfactory
+336,Tamil Nadu,Lalgudi,25.0,45.0,26.0,8.0,564.0,22.0,58.0,29.0,45.0,Good
+218,Madhya Pradesh,Chichli,36.0,53.0,20.0,24.0,723.0,11.0,81.0,28.0,60.0,Satisfactory
+75,Maharashtra,Jawhar,34.0,45.0,35.0,22.0,957.0,3.0,98.0,22.0,60.0,Satisfactory
+110,South Goa,Chinchinim,38.0,61.0,,,,27.0,87.0,26.0,63.0,Satisfactory
+113,Gujarat,Chotila,29.0,49.0,38.0,13.0,658.0,21.0,91.0,27.0,49.0,Good
+16,Assam,Bezarchuk Bongali,23.0,35.0,7.0,12.0,277.0,6.0,78.0,28.0,38.0,Good
+66,Chhattisgarh,Durg,39.0,56.0,8.0,6.0,389.0,5.0,86.0,26.0,65.0,Satisfactory
+220,Madhya Pradesh,Deori,36.0,56.0,21.0,23.0,695.0,12.0,76.0,28.0,60.0,Satisfactory
+7,Andhra Pradesh,Chilakaluripet,36.0,55.0,22.0,10.0,321.0,18.0,68.0,28.0,60.0,Satisfactory
+19,Assam,Naharkatia Kaibatra,21.0,32.0,6.0,12.0,274.0,3.0,85.0,28.0,35.0,Good
+176,Karnataka,Rona,22.0,34.0,32.0,17.0,612.0,33.0,89.0,22.0,36.0,Good
+357,Tripura,Ranirbazar,36.0,37.0,2.0,21.0,200.0,,89.0,29.0,60.0,Satisfactory
+351,Telangana,Gudur,22.0,75.0,20.0,3.0,60.0,27.0,87.0,24.0,75.0,Satisfactory
+297,Tamil Nadu,Vikravandi,28.0,47.0,21.0,6.0,617.0,24.0,52.0,29.0,47.0,Good
+296,Tamil Nadu,Ayan Kurinjipadi,28.0,49.0,20.0,7.0,563.0,18.0,58.0,29.0,49.0,Good
+294,Tamil Nadu,Valavanur,19.0,57.0,11.0,8.0,780.0,21.0,53.0,29.0,57.0,Satisfactory
+389,Uttarakhand,Ghaglori,54.0,92.0,27.0,18.0,815.0,7.0,95.0,18.0,92.0,Satisfactory
+299,Tamil Nadu,Thorapadi,28.0,49.0,20.0,7.0,563.0,18.0,54.0,29.0,49.0,Good
+60,Chhattisgarh,Dhamtari,42.0,61.0,,,,5.0,88.0,25.0,70.0,Satisfactory
+79,Dadra and Nagar Haveli,Silvassa,24.0,26.0,1.0,27.0,1500.0,8.0,95.0,25.0,75.0,Satisfactory
+287,Odisha,Deogarh,52.0,74.0,9.0,7.0,198.0,7.0,84.0,28.0,86.0,Satisfactory
